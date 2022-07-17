@@ -4,4 +4,4 @@ O presente repositório é destinado ao armazenamento de soluções desenvolvida
 
 ## Primeiro Desafio: Taxi Ride Price
 
-Proposta: Estimação do custo de operação dos concorrentes com os dados de local de partida e chegada, forma de pagamento, dia e hora.
+*Proposta*: Estimar o preço de uma corrida de taxi com as registros de 30 mil corridas. 
