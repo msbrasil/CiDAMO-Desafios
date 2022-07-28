@@ -5,3 +5,7 @@ O presente repositório é destinado ao armazenamento de soluções desenvolvida
 ## Primeiro Desafio: Taxi Ride Price
 
 Proposta: Estimação do custo de operação dos concorrentes com os dados de local de partida e chegada, forma de pagamento, dia e hora.
+
+## Segundo Desafio: Classificação de Vinho
+
+Proposta: Consiste em classificar se um vinho é bom ou ruim.
